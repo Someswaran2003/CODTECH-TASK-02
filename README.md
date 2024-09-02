@@ -12,6 +12,9 @@ Mentor : Muzammil Ahmed
 
 
 # Weather Application
+Home page![Screenshot 2024-09-02 112427](https://github.com/user-attachments/assets/ab7581ba-367d-4266-907b-dd402b30e63e)
+
+
 
 ![Weather App](https://img.shields.io/badge/WeatherApp-v1.0-blue.svg) ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
